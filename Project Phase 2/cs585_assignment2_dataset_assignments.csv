@@ -1,0 +1,110 @@
+Name,Email,primary_dataset,secondary_dataset
+"Anupoju, Sasiram",sanupoju@hawk.iit.edu,nyt-topic,reddit-topic
+"Bandaru, Bharath",bbandaru@hawk.iit.edu,twitter-topic,reddit-topic
+"Barclay, Maggie J.",mbarclay@hawk.iit.edu,change.org-stance,twitter-stance
+"Bennitt, Brandon T.",bbennitt@hawk.iit.edu,nyt-stance,change.org-stance
+"Cavanillas, Luis",lcavanillas@hawk.iit.edu,nyt-topic,change.org-topic
+"Cervera Perez, Jorge",jcerveraperez@hawk.iit.edu,change.org-stance,nyt-stance
+"Chaguer, Reda",rchaguer@hawk.iit.edu,nyt-stance,change.org-stance
+"Challa, Devadas",dchalla@hawk.iit.edu,twitter-stance,reddit-stance
+"Chol, Nils P.",nchol@hawk.iit.edu,nyt-stance,twitter-stance
+"Chunduri, Harsha Hemanth",hchunduri@hawk.iit.edu,change.org-stance,nyt-stance
+"Desai, Purvaj A.",pdesai28@hawk.iit.edu,nyt-stance,reddit-stance
+"Didelet, Roman Victor Raphael",rdidelet@hawk.iit.edu,reddit-stance,change.org-stance
+"Elisabeth, Marine L.",melisabeth@hawk.iit.edu,change.org-stance,twitter-stance
+"Elomari Alaoui, Ismail",ielomarialaoui@hawk.iit.edu,nyt-topic,reddit-topic
+"Fernandez Lopez Areal, Mateo",mfernandezlopezareal@hawk.iit.edu,twitter-topic,nyt-topic
+"Gautam, Tanishq",tgautam1@hawk.iit.edu,nyt-topic,twitter-topic
+"George, Clinton V.",cgeorge3@hawk.iit.edu,twitter-topic,reddit-topic
+"Golden, Samuel B.",sgolden2@hawk.iit.edu,change.org-stance,nyt-stance
+"Guidroz, Theo W.",tguidroz@hawk.iit.edu,nyt-topic,twitter-topic
+"Guo, Ziheng",zguo22@hawk.iit.edu,twitter-topic,change.org-topic
+"Guramkonda, Naveen Kumar",nguramkonda@hawk.iit.edu,change.org-stance,reddit-stance
+"Haberer, Jean",jhaberer@hawk.iit.edu,change.org-stance,reddit-stance
+"Issaoui, Ali",aissaoui@hawk.iit.edu,nyt-stance,reddit-stance
+"Jamshaid, Hamza",hjamshaid@hawk.iit.edu,twitter-stance,change.org-stance
+"Kadam, Sneha Shahaji",skadam5@hawk.iit.edu,reddit-topic,nyt-topic
+"Kodag, Avadhoot S.",akodag@hawk.iit.edu,reddit-stance,twitter-stance
+"Kumar, Abhishek",akumar84@hawk.iit.edu,twitter-topic,reddit-topic
+"Kumar, Saurav K.",skumar66@hawk.iit.edu,reddit-topic,twitter-topic
+"Lakkaraju, Himamshu",hlakkaraju@hawk.iit.edu,reddit-topic,twitter-topic
+"Li, Chenjie",cli112@hawk.iit.edu,change.org-stance,twitter-stance
+"Liu, Hao",hliu95@hawk.iit.edu,nyt-stance,twitter-stance
+"LNU, Mrinalini",mnln17@hawk.iit.edu,nyt-topic,reddit-topic
+"Madabhushi, Aakash V.",amadabushi@hawk.iit.edu,reddit-topic,twitter-topic
+"Mehra, Dimple",dmehra1@hawk.iit.edu,nyt-topic,change.org-topic
+"Mohan, Ajay Roopesh",amohan6@hawk.iit.edu,nyt-stance,reddit-stance
+"Neely, Michael A.",mneely1@hawk.iit.edu,nyt-stance,change.org-stance
+"Nicholson, Stanley A.",snicholson1@hawk.iit.edu,twitter-topic,nyt-topic
+"Nikam, Amit Satishkumar",anikam@hawk.iit.edu,change.org-stance,nyt-stance
+"Nimavat, Pinakin A.",pnimavat@hawk.iit.edu,twitter-topic,change.org-topic
+"Oberoi, Amandeep Singh",aoberoi@hawk.iit.edu,nyt-stance,change.org-stance
+"Patil, Sourabh S.",spatil56@hawk.iit.edu,reddit-topic,twitter-topic
+"Peng, Hongyun",hpeng10@hawk.iit.edu,nyt-topic,reddit-topic
+"Ramesh, Uday",uramesh1@hawk.iit.edu,change.org-stance,reddit-stance
+"Rathod, Parth R.",prathod@hawk.iit.edu,nyt-topic,change.org-topic
+"Sahu, Aman",asahu4@hawk.iit.edu,twitter-stance,change.org-stance
+"Sajja, Akash",asajja@hawk.iit.edu,twitter-stance,nyt-stance
+"Shah, Kajol Tanesh",kshah127@hawk.iit.edu,reddit-topic,twitter-topic
+"Sharma, Sukanta",ssharma32@hawk.iit.edu,reddit-topic,nyt-topic
+"Sharma, Vidhi",vsharma18@hawk.iit.edu,change.org-stance,reddit-stance
+"Shastry, Abhishek",ashastry1@hawk.iit.edu,reddit-topic,change.org-topic
+"Shree, Kriti",kshree@hawk.iit.edu,reddit-topic,change.org-topic
+"Singh, Nupur",nsingh29@hawk.iit.edu,change.org-stance,reddit-stance
+"Sonawane, Anushka S.",asonawane1@hawk.iit.edu,nyt-topic,twitter-topic
+"Sood, Parveen",psood3@hawk.iit.edu,reddit-stance,nyt-stance
+"Srivastava, Shivi",ssrivastava4@hawk.iit.edu,reddit-topic,change.org-topic
+"Tambe, Namita Sandeep",ntambe2@hawk.iit.edu,twitter-topic,reddit-topic
+"Vanki Reddy, Vishnu Bharath Reddy",vvankireddy@hawk.iit.edu,reddit-topic,twitter-topic
+"Varadaraju, Nitheesh Varma",nvaradaraju@hawk.iit.edu,nyt-topic,change.org-topic
+"Venkanagari, Yogith Reddy",yvenkanagari@hawk.iit.edu,change.org-stance,twitter-stance
+"Waris, Aakef A.",awaris@hawk.iit.edu,reddit-topic,twitter-topic
+"Xu, Yihua",yxu131@hawk.iit.edu,reddit-topic,twitter-topic
+"Belen, Darrel C.",dbelen@hawk.iit.edu,change.org-stance,reddit-stance
+"Chauhan, Pushpendra Singh",pchauhan2@hawk.iit.edu,nyt-topic,reddit-topic
+"Chen, Yindong",ychen296@hawk.iit.edu,reddit-stance,change.org-stance
+"Da, Manli",mda@hawk.iit.edu,twitter-topic,reddit-topic
+"Downer, Jane S.",jdowner@hawk.iit.edu,reddit-topic,twitter-topic
+"FNU, Soundarya",sna5@hawk.iit.edu,reddit-topic,nyt-topic
+"Gameng, Mark Angelo L.",mgameng1@hawk.iit.edu,twitter-stance,reddit-stance
+"Ginnavaram, Sai Ruchith Reddy",sginnavaram@hawk.iit.edu,nyt-topic,reddit-topic
+"Gonzalez Lopez, Jorge",jgonzalezlopez@hawk.iit.edu,twitter-topic,nyt-topic
+"Jimenez Aliste, Alberto",ajimenezaliste@hawk.iit.edu,reddit-topic,twitter-topic
+"Korban, Charles",ckorban@hawk.iit.edu,twitter-topic,change.org-topic
+"Li, Xiangwei",xli265@hawk.iit.edu,twitter-stance,nyt-stance
+"Longoria, Curtis J.",clongoria@hawk.iit.edu,twitter-topic,nyt-topic
+"Mandolini, Jamie",jmandolini@iit.edu,twitter-stance,nyt-stance
+"Mcdaneld, Luke E.",lmcdaneld@hawk.iit.edu,reddit-stance,twitter-stance
+"Morales, Diana Butnaru",dbutnaru@hawk.iit.edu,twitter-topic,nyt-topic
+"Panchal, Jawahar J.",jpanchal@iit.edu,twitter-stance,nyt-stance
+"Pandey, Umashankar",upandey1@hawk.iit.edu,change.org-stance,twitter-stance
+"Patel, Dhavalkumar H.",dpatel131@hawk.iit.edu,twitter-topic,nyt-topic
+"Patel, Nittu",npatel137@hawk.iit.edu,twitter-stance,reddit-stance
+"Patel, Rutvik",rpatel123@hawk.iit.edu,twitter-topic,change.org-topic
+"Pazhanikumar, Jayaram Chandar",jpazhanikumar@hawk.iit.edu,change.org-stance,twitter-stance
+"Shashkov, Oleksandr",oshashko@iit.edu,reddit-topic,twitter-topic
+"Shklover, Anna V.",ashklover@hawk.iit.edu,reddit-topic,nyt-topic
+"Singh, Gurpreet",gsingh26@hawk.iit.edu,twitter-stance,nyt-stance
+"Soni, Paavan P.",psoni1@hawk.iit.edu,reddit-topic,change.org-topic
+"Tenepalli, Lakshmi Priya",ltenepalli@hawk.iit.edu,twitter-stance,reddit-stance
+"Yin, Yuan",yyin22@hawk.iit.edu,reddit-stance,change.org-stance
+"Bai, Yang",ybai24@hawk.iit.edu,nyt-stance,change.org-stance
+"Cai, Junjie",jcai15@hawk.iit.edu,reddit-topic,nyt-topic
+"Gao, Yuan",ygao73@hawk.iit.edu,reddit-stance,nyt-stance
+"He, Feng",fhe14@hawk.iit.edu,nyt-topic,reddit-topic
+"Hou, Changjun",chou4@hawk.iit.edu,nyt-topic,change.org-topic
+"Li, Anhai",ali41@hawk.iit.edu,reddit-stance,nyt-stance
+"Li, Jun",jli228@hawk.iit.edu,reddit-stance,nyt-stance
+"Li, Xingli",xli273@hawk.iit.edu,twitter-topic,reddit-topic
+"Li, Zizhou",zli212@hawk.iit.edu,reddit-topic,change.org-topic
+"Lin, Xiaoqi",xlin31@hawk.iit.edu,nyt-stance,change.org-stance
+"Lu, Tao",tlu18@hawk.iit.edu,change.org-stance,twitter-stance
+"Peng, Shilei",speng13@hawk.iit.edu,nyt-topic,reddit-topic
+"Sun, Biao",bsun27@hawk.iit.edu,reddit-topic,change.org-topic
+"Tu, Jianhua",jtu5@hawk.iit.edu,reddit-stance,twitter-stance
+"Xu, Xiaobin",xxu82@hawk.iit.edu,twitter-stance,nyt-stance
+"Yan, Binhao",byan6@hawk.iit.edu,reddit-topic,twitter-topic
+"Zhan, Chaochao",czhan7@hawk.iit.edu,reddit-topic,nyt-topic
+"Zhao, Lei",lzhao36@hawk.iit.edu,twitter-topic,reddit-topic
+"Zhao, Xin",xzhao71@hawk.iit.edu,reddit-topic,change.org-topic
+"Zhu, Bo",bzhu14@hawk.iit.edu,reddit-stance,nyt-stance
